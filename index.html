@@ -4,19 +4,26 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>BRUZZ TRANSLATOR</title>
+    <script
+      src="https://kit.fontawesome.com/480c99c053.js"
+      crossorigin="anonymous"
+    ></script>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <h1>BRUZZ TRANSLATOR</h1>
+    <i class="fa-solid fa-right-left"></i>
     <div id="input-container">
       <div id="english-container">
         <label for="input-text">English:</label>
-        <input type="text" min="2" id="input-text" />
+        <textarea min="2" id="input-text" placeholder="Enter Text"></textarea>
       </div>
-
       <div id="bruzz-container">
         <label for="output-text">Bruzzlish:</label>
-        <input type="text" id="output-text" />
+        <textarea
+          id="output-text"
+          placeholder="Salutations fine shyt!"
+        ></textarea>
       </div>
     </div>
     <script src="script.js"></script>
