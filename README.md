@@ -4,8 +4,8 @@
 
 ### Examples:
 
-Bro --> Bruzz
-Grandma --> Grandmuzz
-Grandpa -> Grandpuzz
-Mother --> Motheuzz
-Shut up --> Shuuzz up
+- Bro --> Bruzz
+- Grandma --> Grandmuzz
+- Grandpa -> Grandpuzz
+- Mother --> Motheuzz
+- Shut up --> Shuuzz up
